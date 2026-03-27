@@ -1,7 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include <cmath>
-#include <vector>
+// #include <vector>
 
 int main(){
 
