@@ -20,17 +20,19 @@ This simulation uses Euler's method for numerical integration to calculate the p
 
 ### 🚀 Commands
 1. **Build the simulation**:
-     make
+     `make`
 2. **Run the simulation**:
-     make run
+     `make run`
 
 This generates a `trajectory.dat` file containing the $(x, y)$ coordinates.
+
 3. **Plot the graph**:
-     make plot
+     `make plot`
+   
 This will open a `gnuplot` window showing the trajectory.
 
-4. **Clean up**:
-     make clean
+5. **Clean up**:
+     `make clean`
 
 ## 📊 Output
 The simulation produces `trajectory.dat`, which can be plotted to visualize the curved path of the projectile as it's affected by both gravity and air resistance. 📉
