@@ -9,6 +9,7 @@ self-contained and includes its own build system for quick experimentation.
 ## 📂 Folder Structure
 The repository is organized into subfolders, each dedicated to a specific scientific problem:
 - **`projectile/`**: A simulation of projectile motion with air resistance (drag) and gnuplot visualization. 🚀
+- **`gravitation/`**: A simulation of gravitational force vs distance between two point masses. 🪐
 - *More simulations coming soon!*
 
 ## 🛠️ Prerequisites
